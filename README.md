@@ -35,11 +35,11 @@ Anaconda Download Link - https://www.anaconda.com/download/success </br>
   <th>Week 5</th>
   <th><a href="https://www.linkedin.com/posts/hi-aadarshsingh_linkedinabrfamily-dataabranalytics-objectabrorientedabrprogramming-activity-7276453915368345600-K3hQ?utm_source=share&utm_medium=member_desktop">Week 5 on LinkedIn</a></th>
  </tr>
- <!--<tr>
+ <tr>
   <th>Week 6</th>
-  <th><a href="">Week 6 on LinkedIn</a></th>
+  <th><a href="https://www.linkedin.com/posts/hi-aadarshsingh_linkedinabrfamily-dataabranalytics-matrix-activity-7279005721080352769-G1H1?utm_source=share&utm_medium=member_desktop">Week 6 on LinkedIn</a></th>
  </tr>
-  <tr>
+  <!--<tr>
   <th>Week 7</th>
   <th><a href="">Week 7 on LinkedIn</a></th>
  </tr>
